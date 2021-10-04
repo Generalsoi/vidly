@@ -1,4 +1,4 @@
-# ** Vidly React App **
+# **Vidly React App**
 
 ---
 
